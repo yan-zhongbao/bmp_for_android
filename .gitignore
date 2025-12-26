@@ -1,0 +1,15 @@
+# Keystore and signing configs
+keystore/
+*.jks
+*.keystore
+
+# Local Gradle cache used by CLI builds
+.gradle-user-home/
+
+# Gradle/Android build outputs
+.gradle/
+build/
+**/build/
+
+# Local SDK path
+local.properties
