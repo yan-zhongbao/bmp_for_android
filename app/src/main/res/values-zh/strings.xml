@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">节拍器</string>
+    <string name="title_main">节拍器</string>
+    <string name="label_bpm">BPM</string>
+    <string name="label_beats_per_measure">每小节拍数</string>
+    <string name="label_beat_indicator">拍子指示</string>
+    <string name="label_sound">声音</string>
+    <string name="label_presets">预设</string>
+    <string name="label_presets_hint">点按加载，长按保存并命名。</string>
+    <string name="label_preset_1">预设1</string>
+    <string name="label_preset_2">预设2</string>
+    <string name="label_preset_3">预设3</string>
+    <string name="button_start">开始</string>
+    <string name="button_stop">停止</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_ok">确定</string>
+    <string name="toast_preset_empty">预设%1$d为空</string>
+    <string name="toast_preset_saved">已保存到预设%1$d</string>
+    <string name="dialog_bpm_title">设置BPM</string>
+    <string name="dialog_bpm_label">每分钟节拍数</string>
+    <string name="dialog_preset_name_title">预设名称</string>
+    <string name="dialog_preset_name_label">名称</string>
+    <string name="notification_title">节拍器运行中</string>
+    <string name="notification_content">BPM %1$d · %2$d拍</string>
+    <string name="action_stop">停止</string>
+    <string name="sound_classic">经典点击</string>
+    <string name="sound_short">短促提示音</string>
+    <string name="sound_soft">轻柔咔咔</string>
+    <string name="sound_wood">木鱼</string>
+    <string name="sound_drum">低鼓点</string>
+    <string name="sound_metal">金属滴答</string>
+</resources>

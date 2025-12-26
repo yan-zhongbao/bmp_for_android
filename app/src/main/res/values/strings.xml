@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">Metronome</string>
+    <string name="title_main">Metronome</string>
+    <string name="label_bpm">BPM</string>
+    <string name="label_beats_per_measure">Beats Per Measure</string>
+    <string name="label_beat_indicator">Beat Indicator</string>
+    <string name="label_sound">Sound</string>
+    <string name="label_presets">Presets</string>
+    <string name="label_presets_hint">Tap to load. Long-press to save and name.</string>
+    <string name="label_preset_1">Preset 1</string>
+    <string name="label_preset_2">Preset 2</string>
+    <string name="label_preset_3">Preset 3</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_ok">OK</string>
+    <string name="toast_preset_empty">Preset %1$d is empty</string>
+    <string name="toast_preset_saved">Saved to Preset %1$d</string>
+    <string name="dialog_bpm_title">Set BPM</string>
+    <string name="dialog_bpm_label">Beats per minute</string>
+    <string name="dialog_preset_name_title">Preset name</string>
+    <string name="dialog_preset_name_label">Name</string>
+    <string name="notification_title">Metronome running</string>
+    <string name="notification_content">BPM %1$d · %2$d beats</string>
+    <string name="action_stop">Stop</string>
+    <string name="sound_classic">Classic Click</string>
+    <string name="sound_short">Short Beep</string>
+    <string name="sound_soft">Soft Click</string>
+    <string name="sound_wood">Wood Block</string>
+    <string name="sound_drum">Low Drum</string>
+    <string name="sound_metal">Metal Tick</string>
 </resources>

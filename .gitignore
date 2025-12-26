@@ -3,6 +3,11 @@ keystore/
 *.jks
 *.keystore
 
+# Android Studio
+.idea/
+**/.idea/
+*.iml
+
 # Local Gradle cache used by CLI builds
 .gradle-user-home/
 
